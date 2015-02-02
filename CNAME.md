@@ -1,1 +1,1 @@
-http://www.getshout.io
+getshout.io
